@@ -1,7 +1,0 @@
-{
-  "name": "DriveWiseApp",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular-standalone"
-}
